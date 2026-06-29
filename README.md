@@ -1,4 +1,4 @@
-# AI Agent Building Assignment - Fintech Customer Support
+# AI Agent Building
 
 ## Overview
 This project involves creating an AI Agent for a mid-sized fintech company to improve customer support on their website.
